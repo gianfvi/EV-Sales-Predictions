@@ -80,29 +80,6 @@ Cleaning and wrangling the data involved:
 
 The predictive analysis indicates a strong growth trajectory for EV/PHEV sales, with estimates between 200,000 and 500,000 units. For the dealership, this suggests a significant opportunity to expand EV/PHEV inventory and enhance charging infrastructure. By leveraging these predictions, the dealership can capitalize on market trends, ensuring long-term growth and leadership in the EV market.
 
-## Repository Structure
-
-```plaintext
-.
-├── Machine Learning Predictive Analysis.ipynb
-├── States Notebook.ipynb
-├── README.md
-└── data
-    ├── ML_DATASET.csv
-    ├── CA_data.csv
-    ├── FL_data.csv
-    ├── NY_data.csv
-    ├── TX_data.csv
-    ├── WA_data.csv
-```
-
-## How to Run the Project
-
-1. Clone the repository.
-2. Ensure all data files are in the `data` directory.
-3. Open and run the notebooks in Jupyter Notebook or JupyterLab.
-4. Follow the steps in each notebook to reproduce the analysis and predictions.
-
 ## Dependencies
 
 - pandas
@@ -123,6 +100,3 @@ pip install pandas matplotlib seaborn scikit-learn xgboost catboost statsmodels
 
 Gian F. Villafañe Morales - Data Analyst
 
-## License
-
-This project is licensed under the MIT License.
